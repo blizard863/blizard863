@@ -1,0 +1,164 @@
+<product_set>
+  <product>
+    <product_id><![CDATA[150851]]></product_id>
+    <product_name><![CDATA[商品888888]]></product_name>
+    <first_category_name><![CDATA[一级分类名称]]></first_category_name>
+    <second_category_name><![CDATA[二级分类名称]]></second_category_name>
+    <third_category_name><![CDATA[三级分类名称]]></third_category_name>
+    <fourth_category_name><![CDATA[四级分类名称]]></fourth_category_name>
+    <first_category_id><![CDATA[107725]]></first_category_id>
+    <second_category_id><![CDATA[17377]]></second_category_id>
+    <third_category_id><![CDATA[96824]]></third_category_id>
+    <fourth_category_id><![CDATA[722335]]></fourth_category_id>
+    <author><![CDATA[请输入字符串]]></author>
+    <description><![CDATA[商品详细描述信息]]></description>
+    <video_url><![CDATA[http://example.com/video.mp4]]></video_url>
+    <semantic_label><![CDATA[请输入字符串]]></semantic_label>
+    <image_url><![CDATA[http://example.com/image.jpg]]></image_url>
+    <additional_image_url><![CDATA[http://example.com/image.jpg]]></additional_image_url>
+    <expiration_time><![CDATA[2018-10-30 12:30:00]]></expiration_time>
+    <additional_video_url><![CDATA[http://example.com/video.mp4]]></additional_video_url>
+    <target_url_android><![CDATA[http://example.com/test]]></target_url_android>
+    <target_url_ios><![CDATA[http://example.com/test]]></target_url_ios>
+    <target_url_mobile><![CDATA[http://example.com/test]]></target_url_mobile>
+    <target_url_wechat><![CDATA[http://example.com/test]]></target_url_wechat>
+    <universal_link><![CDATA[http://example.com/test]]></universal_link>
+    <additional_target_url_mobile><![CDATA[http://example.com/test]]></additional_target_url_mobile>
+    <additional_target_url_android><![CDATA[http://example.com/test]]></additional_target_url_android>
+    <additional_target_url_ios><![CDATA[http://example.com/test]]></additional_target_url_ios>
+    <additional_target_url_wechat><![CDATA[http://example.com/test]]></additional_target_url_wechat>
+    <additional_universal_link><![CDATA[http://example.com/test]]></additional_universal_link>
+    <target_url_mini_program_id><![CDATA[请输入字符串]]></target_url_mini_program_id>
+    <target_url_mini_program_path><![CDATA[请输入字符串]]></target_url_mini_program_path>
+    <additional_target_url_mini_program_id><![CDATA[请输入字符串]]></additional_target_url_mini_program_id>
+    <additional_target_url_mini_program_path><![CDATA[请输入字符串]]></additional_target_url_mini_program_path>
+    <favorite_count><![CDATA[151775]]></favorite_count>
+    <like_count><![CDATA[543785]]></like_count>
+    <comment_count><![CDATA[372060]]></comment_count>
+    <author_fans_count><![CDATA[47144]]></author_fans_count>
+    <ratings><![CDATA[1.20]]></ratings>
+    <trends><![CDATA[314255]]></trends>
+    <reader_count><![CDATA[973973]]></reader_count>
+    <recommended_votes_count><![CDATA[356968]]></recommended_votes_count>
+    <reward_count><![CDATA[911750]]></reward_count>
+    <word_count><![CDATA[581569]]></word_count>
+    <serial_status />
+    <ranking><![CDATA[951035]]></ranking>
+    <pay_status />
+    <space />
+    <if_new_book />
+    <chapter_count><![CDATA[603278]]></chapter_count>
+    <started_pay_chapter><![CDATA[277970]]></started_pay_chapter>
+    <pay_count><![CDATA[456743]]></pay_count>
+    <pay_amount><![CDATA[954.6]]></pay_amount>
+    <first_pay_amount><![CDATA[907.8]]></first_pay_amount>
+    <least_pay_amount><![CDATA[786.1]]></least_pay_amount>
+    <onetime_pay_amount><![CDATA[923.2]]></onetime_pay_amount>
+    <latest_renew_time><![CDATA[2018-10-30 12:30:00]]></latest_renew_time>
+    <latest_renew_chapter><![CDATA[171883]]></latest_renew_chapter>
+    <share_count><![CDATA[270768]]></share_count>
+    <download_count><![CDATA[309505]]></download_count>
+    <paying_reader_count><![CDATA[768757]]></paying_reader_count>
+    <book_json><![CDATA[请输入字符串]]></book_json>
+    <slogan><![CDATA[标语，例如【全场一折起！】]]></slogan>
+    <product_short_name><![CDATA[请输入字符串]]></product_short_name>
+    <story_school><![CDATA[请输入字符串]]></story_school>
+    <story_role_identity><![CDATA[请输入字符串]]></story_role_identity>
+    <story_role_image><![CDATA[请输入字符串]]></story_role_image>
+    <story_era><![CDATA[请输入字符串]]></story_era>
+    <story_scene><![CDATA[请输入字符串]]></story_scene>
+    <story_plot><![CDATA[请输入字符串]]></story_plot>
+    <story_style><![CDATA[请输入字符串]]></story_style>
+    <publish_time><![CDATA[2018-10-30 12:30:00]]></publish_time>
+    <authorization_status />
+    <originality />
+    <update_frequency />
+    <play_form />
+    <play_author><![CDATA[请输入字符串]]></play_author>
+    <play_voice />
+    <production_source />
+    <production_place />
+    <cartoon_color />
+  </product>
+  <product>
+    <product_id><![CDATA[538075]]></product_id>
+    <product_name><![CDATA[商品575320]]></product_name>
+    <first_category_name><![CDATA[一级分类名称]]></first_category_name>
+    <second_category_name><![CDATA[二级分类名称]]></second_category_name>
+    <third_category_name><![CDATA[三级分类名称]]></third_category_name>
+    <fourth_category_name><![CDATA[四级分类名称]]></fourth_category_name>
+    <first_category_id><![CDATA[898543]]></first_category_id>
+    <second_category_id><![CDATA[60623]]></second_category_id>
+    <third_category_id><![CDATA[711263]]></third_category_id>
+    <fourth_category_id><![CDATA[899641]]></fourth_category_id>
+    <author><![CDATA[请输入字符串]]></author>
+    <description><![CDATA[商品详细描述信息]]></description>
+    <video_url><![CDATA[http://example.com/video.mp4]]></video_url>
+    <semantic_label><![CDATA[请输入字符串]]></semantic_label>
+    <image_url><![CDATA[http://example.com/image.jpg]]></image_url>
+    <additional_image_url><![CDATA[http://example.com/image.jpg]]></additional_image_url>
+    <expiration_time><![CDATA[2018-10-30 12:30:00]]></expiration_time>
+    <additional_video_url><![CDATA[http://example.com/video.mp4]]></additional_video_url>
+    <target_url_android><![CDATA[http://example.com/test]]></target_url_android>
+    <target_url_ios><![CDATA[http://example.com/test]]></target_url_ios>
+    <target_url_mobile><![CDATA[http://example.com/test]]></target_url_mobile>
+    <target_url_wechat><![CDATA[http://example.com/test]]></target_url_wechat>
+    <universal_link><![CDATA[http://example.com/test]]></universal_link>
+    <additional_target_url_mobile><![CDATA[http://example.com/test]]></additional_target_url_mobile>
+    <additional_target_url_android><![CDATA[http://example.com/test]]></additional_target_url_android>
+    <additional_target_url_ios><![CDATA[http://example.com/test]]></additional_target_url_ios>
+    <additional_target_url_wechat><![CDATA[http://example.com/test]]></additional_target_url_wechat>
+    <additional_universal_link><![CDATA[http://example.com/test]]></additional_universal_link>
+    <target_url_mini_program_id><![CDATA[请输入字符串]]></target_url_mini_program_id>
+    <target_url_mini_program_path><![CDATA[请输入字符串]]></target_url_mini_program_path>
+    <additional_target_url_mini_program_id><![CDATA[请输入字符串]]></additional_target_url_mini_program_id>
+    <additional_target_url_mini_program_path><![CDATA[请输入字符串]]></additional_target_url_mini_program_path>
+    <favorite_count><![CDATA[699035]]></favorite_count>
+    <like_count><![CDATA[438091]]></like_count>
+    <comment_count><![CDATA[295877]]></comment_count>
+    <author_fans_count><![CDATA[89802]]></author_fans_count>
+    <ratings><![CDATA[0.61]]></ratings>
+    <trends><![CDATA[724955]]></trends>
+    <reader_count><![CDATA[809068]]></reader_count>
+    <recommended_votes_count><![CDATA[711320]]></recommended_votes_count>
+    <reward_count><![CDATA[619162]]></reward_count>
+    <word_count><![CDATA[628121]]></word_count>
+    <serial_status />
+    <ranking><![CDATA[618614]]></ranking>
+    <pay_status />
+    <space />
+    <if_new_book />
+    <chapter_count><![CDATA[896389]]></chapter_count>
+    <started_pay_chapter><![CDATA[833671]]></started_pay_chapter>
+    <pay_count><![CDATA[949298]]></pay_count>
+    <pay_amount><![CDATA[518.8]]></pay_amount>
+    <first_pay_amount><![CDATA[367.8]]></first_pay_amount>
+    <least_pay_amount><![CDATA[555.5]]></least_pay_amount>
+    <onetime_pay_amount><![CDATA[684.9]]></onetime_pay_amount>
+    <latest_renew_time><![CDATA[2018-10-30 12:30:00]]></latest_renew_time>
+    <latest_renew_chapter><![CDATA[795462]]></latest_renew_chapter>
+    <share_count><![CDATA[798054]]></share_count>
+    <download_count><![CDATA[109208]]></download_count>
+    <paying_reader_count><![CDATA[962243]]></paying_reader_count>
+    <book_json><![CDATA[请输入字符串]]></book_json>
+    <slogan><![CDATA[标语，例如【全场一折起！】]]></slogan>
+    <product_short_name><![CDATA[请输入字符串]]></product_short_name>
+    <story_school><![CDATA[请输入字符串]]></story_school>
+    <story_role_identity><![CDATA[请输入字符串]]></story_role_identity>
+    <story_role_image><![CDATA[请输入字符串]]></story_role_image>
+    <story_era><![CDATA[请输入字符串]]></story_era>
+    <story_scene><![CDATA[请输入字符串]]></story_scene>
+    <story_plot><![CDATA[请输入字符串]]></story_plot>
+    <story_style><![CDATA[请输入字符串]]></story_style>
+    <publish_time><![CDATA[2018-10-30 12:30:00]]></publish_time>
+    <authorization_status />
+    <originality />
+    <update_frequency />
+    <play_form />
+    <play_author><![CDATA[请输入字符串]]></play_author>
+    <play_voice />
+    <production_source />
+    <production_place />
+    <cartoon_color />
+  </product>
+</product_set>
